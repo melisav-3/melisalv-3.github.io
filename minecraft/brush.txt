@@ -1,0 +1,64 @@
+# World: 74-James
+# Terrain file name: C:\Users\melis\Downloads\mineways\mineways\terrainExt.png
+# Culling scheme: Standard
+# Tue Sep 29 15:55:08 2026
+
+# Selection location min to max: 2258, 64, 1128 to 2264, 319, 1132
+#   Non-empty selection location min to max: 2260, 64, 1129 to 2261, 75, 1132
+
+# Set 3D print type: Binary STL iMaterialise
+
+# Cost estimate for this model:
+#   if made using the white, strong & flexible material: $ 1.55
+#   if made using the full color sandstone material:     $ 3.13 *** WARNING, thin wall ***
+#   if made using the custom printer material:     0.01
+# For custom printer printer, minimum wall is 1.5 mm, maximum size is 20 x 20 x 20 cm
+# Units for the model vertex data itself: millimeters
+
+# world dimensions: 0.30 x 1.80 x 0.60 cm
+#   in inches: 0.12 x 0.71 x 0.24 inches
+# each block is 1.50 mm on a side, and has a volume of 3.375 mm^3
+# sum of dimensions: 27 mm
+# volume is 0.16875 cm^3
+# surface area is 3.015 cm^2
+# block density: 52% of volume
+
+# 136 vertices, 134 faces (268 triangles), 50 blocks
+# block dimensions: X=2 by Y=12 (height) by Z=4 blocks
+# Elevation shading: no
+# Lighting: no
+# Transparent water: no
+# Map grid: no
+# File type: Export solid material colors only (no textures)
+# Texture output RGB: YES
+# Texture output A: no
+# Texture output RGBA: no
+# Export lesser blocks: no
+# Center model: YES
+# Use biomes: no
+# Rotate model 0.000000 degrees
+# Make Z the up direction instead of Y: YES
+# Scale model by making each block 1.5 mm high
+# Data operation options:
+#   Fill air bubbles: YES; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: YES; Connect corner tips: YES; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 16 blocks: YES
+#   Hollow out bottom of model, making the walls 1.5 mm thick: no; Superhollow: no
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
+
+# Cleanup processing summary:
+#   Solid parts: 1
+#   Air bubbles found and filled (with glass): 0
+#   Total solid parts merged: 0
+#   Number of edge passes made: 1
+#     Edges found to fix: 0
+#     Weld blocks added: 0
+#     Tip blocks added: 0
+#   Floating parts removed: 0
+#     In these floaters, total blocks removed: 0
+
+# Full world path: C:\Users\melis\AppData\Roaming\.minecraft\saves\74-James
+# Full terrainExt.png path: C:\Users\melis\Downloads\mineways\mineways\terrainExt.png
+# Full current path: C:\Users\melis\Downloads\mineways\mineways
